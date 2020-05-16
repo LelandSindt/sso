@@ -1,0 +1,7 @@
+namespace: sso 
+
+resources:
+- middleware.yaml
+
+generators:
+- sso.yaml

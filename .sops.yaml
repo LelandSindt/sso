@@ -1,0 +1,5 @@
+creation_rules:
+  - gcp_kms: 'projects/deft-epigram-262002/locations/global/keyRings/sops/cryptoKeys/sops-key'
+    pgp: '6B2EC7437D681FC507BCDF8A643268FAD5223C23'
+   
+
